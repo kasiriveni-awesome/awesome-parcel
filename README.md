@@ -1,5 +1,6 @@
 # awesome-parceljs
 A curated list of awesome parceljs resources
+> :package::rocket: Blazing fast, zero configuration web application bundler
 ## Community
 
 | Sites     | Offical Links
